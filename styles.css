@@ -1,0 +1,37 @@
+.container {
+  display: block;
+  border-radius: 4pt;
+  border-width: 2pt;
+  border-color: blue;
+  background-color: #fff8f8;
+  width: 600pt;
+}
+.input-group {
+  padding-top: 10pt;
+  padding-left: 100pt;
+  padding-right: 100pt;
+}
+.col-9 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  color: #1f0c4b;
+}
+.temper {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  color: #1f0c4b;
+  font-size: 40pt;
+}
+.col-4 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #1f0c4b;
+}
+.col {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  color: #1f0c4b;
+  padding-top: 10pt;
+}
+.temp_units {
+  font-size: 10pt;
+}
